@@ -1,52 +1,36 @@
 # ApnaPG(Student Accommodation Platform )
-ApnaPG
+# ApnaPG
 
 **Overview**
 ApnaPG is a dedicated platform designed to simplify and enhance the experience of finding and managing student accommodations. The platform bridges the gap between students seeking comfortable living spaces and property owners looking to rent their properties efficiently. With an intuitive interface, verified listings, and seamless communication tools, ApnaPG ensures a hassle-free accommodation search process.
 
-**Table of Contents**
+## Table of Contents
 
-Home Page
+ - [Home Page]( #screenshots-results)
 
-Accommodation Listings
+   -[Accommodation Listings]( #screenshots-results)
 
-Tenant Reviews & Ratings
+   -[Tenant Reviews & Ratings](#screenshots-results)
 
-Booking System
+   -[Booking System]( #screenshots-results)
 
-Amenities & Services
+   -[Amenities & Services]( #screenshots-results)
 
-Pricing Plans
+   -[Pricing Plans]( #screenshots-results)
 
-Contact & Support
+   -[Contact & Support]( #screenshots-results)
 
-**FAQs**
+-[Future Scope]( #future-scope)
+-[Technological Stack]( #Technological-stack)
+-[FAQ's](#fyq)
 
-Prerequisites
+## Prerequisites
 
-Notepad++ or VS Code
+-Figma
 
-XAMPP
+-Chrome Browser or Other Supported Browsers
 
-Chrome Browser or Other Supported Browsers
-
-**Responsibilities**
-
-UI/UX Design
-
-Chatbot Integration
-
-Advanced Search & Filter Algorithm
-
-Bug Fixing & Performance Optimization
-
-Cross-Browser Compatibility Testing
-
-Frontend & Backend Development
-
-Secure Payment Gateway Integration
-
-**Features**
+## Features
 
 User-Friendly Interface – Easy navigation for both students and property owners.
 
@@ -64,27 +48,21 @@ Review & Rating System – Transparency in property selection.
 
 Secure Transactions – Safe and hassle-free payment processing.
 
-Technological Stack
+## Badges
 
-HTML
 
-CSS
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-JavaScript
 
-MySQL
+## Technological Stack
 
-Git & GitHub
-
-VS Code
-
+Figma
 ChatGPT
 
-Screenshots
+## Output
 
 
-
-Future Scope
+## Future Scope
 
 AI-powered accommodation recommendations.
 
