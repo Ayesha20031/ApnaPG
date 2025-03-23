@@ -8,23 +8,23 @@ ApnaPG is a dedicated platform designed to simplify and enhance the experience o
 
  - [Home Page]( #screenshots-results)
 
-   -[Accommodation Listings]( #screenshots-results)
+   - [Accommodation Listings]( #screenshots-results)
 
-   -[Tenant Reviews & Ratings](#screenshots-results)
+   - [Tenant Reviews & Ratings](#screenshots-results)
 
-   -[Booking System]( #screenshots-results)
+   - [Booking System]( #screenshots-results)
 
-   -[Amenities & Services]( #screenshots-results)
+   - [Amenities & Services]( #screenshots-results)
 
-   -[Pricing Plans]( #screenshots-results)
+   - [Pricing Plans]( #screenshots-results)
 
-   -[Contact & Support]( #screenshots-results)
+   - [Contact & Support]( #screenshots-results)
 
--[Future Scope]( #future-scope)
+- [Future Scope]( #future-scope)
 
--[Technological Stack]( #Technological-stack)
+- [Technological Stack]( #Technological-stack)
 
--[FAQ's](#fyq)
+- [FAQ's](#fyq)
 
 ## Prerequisites
 
