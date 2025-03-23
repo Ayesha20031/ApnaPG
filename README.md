@@ -21,7 +21,9 @@ ApnaPG is a dedicated platform designed to simplify and enhance the experience o
    -[Contact & Support]( #screenshots-results)
 
 -[Future Scope]( #future-scope)
+
 -[Technological Stack]( #Technological-stack)
+
 -[FAQ's](#fyq)
 
 ## Prerequisites
