@@ -1,4 +1,4 @@
-# ApnaPG(Student Accommodation Platform )
+# ApnaPG (Student Accommodation Platform )
 # ApnaPG
 
 **Overview**
@@ -59,6 +59,7 @@ Secure Transactions – Safe and hassle-free payment processing.
 ## Technological Stack
 
 Figma
+
 ChatGPT
 
 ## Output
