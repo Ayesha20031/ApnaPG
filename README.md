@@ -28,27 +28,27 @@ ApnaPG is a dedicated platform designed to simplify and enhance the experience o
 
 ## Prerequisites
 
--Figma
+- Figma
 
--Chrome Browser or Other Supported Browsers
+- Chrome Browser 
 
 ## Features
 
-User-Friendly Interface – Easy navigation for both students and property owners.
+- User-Friendly Interface – Easy navigation for both students and property owners.
 
-Verified Listings – Ensuring safety and reliability.
+- Verified Listings – Ensuring safety and reliability.
 
-Interactive Chatbot – Provides instant assistance.
+- Interactive Chatbot – Provides instant assistance.
 
-Advanced Search & Filters – Find accommodations based on location, budget, and amenities.
+- Advanced Search & Filters – Find accommodations based on location, budget, and amenities.
 
-Online Booking & Payments – Seamless rental process.
+- Online Booking & Payments – Seamless rental process.
 
-Social Media Integration – Share listings and connect with potential roommates.
+- Social Media Integration – Share listings and connect with potential roommates.
 
-Review & Rating System – Transparency in property selection.
+- Review & Rating System – Transparency in property selection.
 
-Secure Transactions – Safe and hassle-free payment processing.
+- Secure Transactions – Safe and hassle-free payment processing.
 
 ## Badges
 
@@ -58,9 +58,9 @@ Secure Transactions – Safe and hassle-free payment processing.
 
 ## Technological Stack
 
-Figma
+- Figma
 
-ChatGPT
+- ChatGPT
 
 ## Output
 
